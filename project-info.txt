@@ -1,0 +1,4 @@
+Project: Implement Client Script & UI Policy (Incident)
+Platform: ServiceNow
+Repository layout: 8 project phases
+Source: User-provided project PDF
